@@ -4,7 +4,11 @@ role: Senior Lecturer in Psychology
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests: []
+interests:
+  - High-level evidence to find what works (systematic reviews)
+  - Changing behaviour at scale using online learning
+  - Decision-making for social good (Effective Altruism)
+  - Risks to humanity's future (longtermism and existential risks)
 social:
   - icon: envelope
     icon_pack: fas
