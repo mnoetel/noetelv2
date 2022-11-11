@@ -1,6 +1,6 @@
 ---
-title: Alice Bighetti 吳恩達
-role: Professor of Artificial Intelligence
+title: Michael Noetel
+role: Senior Lecturer in Psychology
 avatar_filename: square-me-zoom.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -11,35 +11,32 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: "mailto: noetel@gmail.com"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: http://twitter.com/mnoetel
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=RAe4W2QAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mnoetel
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: School of Psychology, University of Queensland
+    url: https://psychology.uq.edu.au/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Psychology
+      institution: Institute for Positive Psychology and Education, ACU
+      year: 2019
+    - course: Master of Applied Psychology
+      institution: University of Queensland
+      year: 2010
+    - course: Bachelor of Science (Advanced, Honours)
+      institution: University of Sydney
       year: 2008
 superuser: true
 last_name: Bighetti
