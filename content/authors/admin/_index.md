@@ -2,8 +2,7 @@
 title: Michael Noetel
 role: Senior Lecturer in Psychology
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Trying to do as much good as I can, and help others to do the same
 interests:
   - High-level evidence to find what works (systematic reviews)
   - Changing behaviour at scale using online learning
@@ -26,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mnoetel
 organizations:
-  - name: School of Psychology, University of Queensland
-    url: https://psychology.uq.edu.au/
+  - name: University of Queensland
+    url: https://uq.edu.au/
 education:
   courses:
     - course: PhD in Psychology
@@ -45,9 +44,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mnoetel_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
