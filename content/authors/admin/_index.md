@@ -44,8 +44,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I﻿'m a performance psychologist and academic at the University of Queensland. I'm trying to do as much good as I can, t﻿rying to be a good ancestor, and trying to help others do the same.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I think it's hard to choose what problems to focus on, and to find the best approaches to solving them. I work toward answering these questions using systematic reviews and Delphi studies because they pull together all the best evidence and expert opinion to clarify what we know.
+
+I﻿ think universities are slow to translate what they know into practice, and changing behaviour is tough. I try to solve this problem using motivating, engaging, and evidence-based online learning. I blend online learning with quality human support because doing this online makes it scalable, but a human in the loop makes it effective.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mnoetel_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
