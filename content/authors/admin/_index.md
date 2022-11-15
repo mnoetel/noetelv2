@@ -4,8 +4,7 @@ role: Senior Lecturer in Psychology
 avatar_filename: avatar.jpg
 bio: Trying to do as much good as I can, and help others to do the same
 interests:
-  - High-level evidence to find what works (systematic reviews)
-  - Changing behaviour at scale using online learning
+  - Behaviour change
   - Decision-making for social good (Effective Altruism)
   - Risks to humanity's future (longtermism and existential risks)
 social:
