@@ -50,4 +50,4 @@ I think it's hard to choose what problems to focus on, and to find the best appr
 
 I﻿ think universities are slow to translate what they know into practice, and changing behaviour is tough. I try to solve this problem using motivating, engaging, and evidence-based online learning. I blend online learning with quality human support because doing this online makes it scalable, but a human in the loop makes it effective.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mnoetel_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/mnoetel_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
